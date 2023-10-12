@@ -1,0 +1,60 @@
+body{
+    background: #f7906e;
+}
+.div1 , .div2
+{
+    background: #faf0f0;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    width: 500px;
+    border: 3px solid yellow;
+    font-size: 20px;
+    font-style: oblique;
+}
+#player1_name , player2_name
+{
+    display: inline-block;
+    margin: 10px;
+}
+#word{
+    width: 90px;
+}
+#word_display{
+    letter-spacing: 5px;
+}
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid red;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+.div3 , .div4
+{
+    background: #debebe;
+    padding: 20px;
+    border-radius: 30px;
+    border: 3px solid grey;
+    font-size: 30px;
+    width: 700px;
+}
+h3
+{
+    font-size: 30px;
+    color: crimson;
+}
+.div5{
+    font-size: 20px;
+    text-align: left;
+}
+p{
+    font-size: 25px;
+    font-style: italic;
+    color: brown;
+}
+h1{
+    font-size: 40px;
+    color: blueviolet;
+}
